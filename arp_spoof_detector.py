@@ -1,5 +1,4 @@
-#! /usr/bin/env python
-# arp_spoof_detector.py - detects any tinkering that is being done on the local ARP table.
+# arp_spoof_detector.py - detects any malicious activity that is being done on the local ARP table.
 # TODO: make documentation consistent in all files
 
 import scapy.all as scapy
