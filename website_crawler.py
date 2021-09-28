@@ -1,6 +1,3 @@
-#! /usr/bin/env python
-# Compatibility: Python 3.x
-# TODO: Probably change the shebang everywhere.
 
 import requests
 
